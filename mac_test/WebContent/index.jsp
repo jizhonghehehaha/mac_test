@@ -215,7 +215,11 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
                 </div>
                 <br class="separator" />
             </div>
-            <p class="copyright">Copyright &copy;1999-${year} Apache Software Foundation.  All Rights Reserved</p>
+            <p class="copyright">Copyright &copy;1999-${year} Apache Software Foundation.  All Rights Reserved
+            	
+            		batch1
+            
+            </p>
         </div>
     </body>
 
