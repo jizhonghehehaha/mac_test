@@ -80,7 +80,7 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
                 <div class="col25">
                     <div class="container">
                         <p><a href="${tomcatDocUrl}setup.html">Tomcat Setup</a></p>
-                        <p><a href="${tomcatDocUrl}appdev/">First Web Application</a></p>
+                        <p><a href="${tomcatDocUrl}appdev/">First Web Applicationfff</a></p>
                     </div>
                 </div>
                 <div class="col25">
